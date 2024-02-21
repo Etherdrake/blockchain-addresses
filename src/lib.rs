@@ -1,7 +1,6 @@
 pub mod arbitrum;
 pub mod polygon;
 
-
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
