@@ -1,6 +1,6 @@
 [package]
 name = "blockchain_addresses"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Etherdrake contact@etherdrake.com"]
 description = "This crate holds token addresses for certain common tokens existing on various L1s and L2s."
