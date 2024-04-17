@@ -1,0 +1,9 @@
+
+pub const GNS_MULTI_COLLAT_DIAMOND: &str = "0xPlACEHOLDER";
+pub const GNS_STAKING: &str = "0xd659a15812064c79e189fd950a189b15c75d3186";
+pub const GNS_TRADING_STORAGE: &str = "0xd659a15812064c79e189fd950a189b15c75d3186";
+pub const GNS_BORROWING_FEES: &str = "0xPlACEHOLDER";
+pub const GNS_TRADING: &str = "0xPlACEHOLDER";
+pub const GNS_CALLBACKS: &str = "0xPlACEHOLDER";
+
+
